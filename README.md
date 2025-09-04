@@ -10,3 +10,10 @@ we studied github
 **This is bold**
 <br/>
 _This is italic_
+<br/>
+
+- Unordered list 1
+- Unoredered list 2
+
+<br/>
+1. Order list
